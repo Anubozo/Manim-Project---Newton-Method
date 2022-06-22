@@ -73,7 +73,7 @@ class Tester(Scene):
         iterate(k.get_value(), dot, 1, f, df, newton_f)
         iterate(k.get_value(), dot, 2, f, df, newton_f)
         iterate(k.get_value(), dot, 2, f, df, newton_f)
-
+        #hi
 
         #self.play(Create(l))
         self.wait(1)
